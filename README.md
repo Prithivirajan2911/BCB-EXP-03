@@ -12,7 +12,7 @@ Contributors can send ETH to the campaign.
 If the goal is met before the deadline, funds are released to the project owner.
 
 
-If the goal is not met, contributors can withdraw their funds.
+If the goal is not met, contributors can withdraw their funds
 
 
 ## Program:
