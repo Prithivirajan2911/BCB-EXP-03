@@ -1,4 +1,4 @@
-# Experiment 2: Blockchain-Based Crowdfunding (Kickstarter Alternative)
+# Experiment 3: Blockchain-Based Crowdfunding (Kickstarter Alternative)
 ## Aim:
 To create a decentralized crowdfunding platform where donors contribute funds only if the campaign goal is met.
 
